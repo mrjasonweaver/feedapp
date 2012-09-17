@@ -138,6 +138,7 @@ img {
 }
 
 #feed {
+	-webkit-overflow-scrolling: touch;
 }
 
 article {
